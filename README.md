@@ -23,5 +23,4 @@ I offer fast, async root-cause diagnostics and working fixes.
 ## 📫 Contact
 
 - **Email:** [jamescrutchley@outlook.com](mailto:jamescrutchley@outlook.com)
-- **GitHub:** DMs welcome
 - **Discord:** `ne0rmatrix`
